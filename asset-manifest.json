@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/akitakata-evacuation-space/static/css/main.a2ffb1e3.css",
-    "main.js": "/akitakata-evacuation-space/static/js/main.2f1c8978.js",
+    "main.js": "/akitakata-evacuation-space/static/js/main.10642346.js",
     "static/js/453.5e2cd7dc.chunk.js": "/akitakata-evacuation-space/static/js/453.5e2cd7dc.chunk.js",
     "index.html": "/akitakata-evacuation-space/index.html",
     "main.a2ffb1e3.css.map": "/akitakata-evacuation-space/static/css/main.a2ffb1e3.css.map",
-    "main.2f1c8978.js.map": "/akitakata-evacuation-space/static/js/main.2f1c8978.js.map",
+    "main.10642346.js.map": "/akitakata-evacuation-space/static/js/main.10642346.js.map",
     "453.5e2cd7dc.chunk.js.map": "/akitakata-evacuation-space/static/js/453.5e2cd7dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2ffb1e3.css",
-    "static/js/main.2f1c8978.js"
+    "static/js/main.10642346.js"
   ]
 }
